@@ -6,6 +6,7 @@
  * Home Assistant
  * PI-Hole & Recursive DNS Resolver
  * Custom CI/CD Pipeline
+ * Mealie, self-hosted recipe application
 
 [![](https://visitcount.itsvg.in/api?id=mattiasbrostrom&icon=0&color=0)](https://visitcount.itsvg.in)
 
